@@ -1,10 +1,6 @@
-# 🎂 Age Calculator
+![image](https://github.com/user-attachments/assets/c6c3237c-4355-4917-8ab7-0d02a169d756)# 🎂 Age Calculator
 
 This is a simple **Age Calculator** built using HTML, CSS, and JavaScript. The application allows users to input their birth date and calculates their age in years based on the current date. The app also supports keyboard accessibility.
-
-![Age Calculator Screenshot](![Uploading image.png…]()
-)
-
 
 ## 🚀 Features
 
