@@ -2,7 +2,8 @@
 
 This is a simple **Age Calculator** built using HTML, CSS, and JavaScript. The application allows users to input their birth date and calculates their age in years based on the current date. The app also supports keyboard accessibility.
 
-![Age Calculator Screenshot](![image](https://github.com/user-attachments/assets/3bd79c67-49b9-4e87-a025-1563f6b91d86))
+![Age Calculator Screenshot](![Uploading image.png…]()
+)
 
 
 ## 🚀 Features
